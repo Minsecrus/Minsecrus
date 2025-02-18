@@ -4,7 +4,7 @@ Hello! I'm Minsecrus, an ordinary technology enthusiast who hopes to continue to
 
 - I love exploring programming languages.
 
-  ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,java,py,rust,go,kotlin,dart,lua,ruby,perl,haskell)
+  ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,java,scala,py,rust,go,kotlin,dart,lua,ruby,perl,haskell)
 
 - I like to use front-end development technology to build beautiful and efficient web pages。
 
