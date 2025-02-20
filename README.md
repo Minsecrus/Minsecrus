@@ -1,16 +1,16 @@
 # Minsecrus
 
-Hello! I'm Minsecrus, an ordinary technology enthusiast who hopes to continue to grow.
+Hello! I'm Minsecrus, an ordinary technology enthusiast, always learning && growing.
 
 - I love exploring programming languages.
 
   ![My Skills](https://skillicons.dev/icons?i=c,zig,cpp,cs,java,scala,py,rust,go,kotlin,dart,lua,ruby,perl,haskell)
 
-- I like to use front-end development technology to build beautiful and efficient web pages。
+- I like to use front-end technologies to build beautiful and efficient web pages。
 
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,remix,angular,svelte,lit,tailwind,vite,npm,pnpm,yarn,bun,wasm)
 
-- I pursue the performance of the backend.
+- I'm focused on backend performance.
 
   ![My Skills](https://skillicons.dev/icons?i=spring,dotnet,flask,fastapi,django,rails,actix,rocket,redis,rabbitmq,jenkins,kubernetes,mysql,sqlite,mongodb,postgres)
 
@@ -26,7 +26,7 @@ Hello! I'm Minsecrus, an ordinary technology enthusiast who hopes to continue to
 
   ![My Skills](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,sklearn,opencv)
 
-- Various gadgets make my development more convenient and less burdensome.
+- Various tools make my development workflow more convenient and efficient.
 
   ![My Skills](https://skillicons.dev/icons?i=maven,gradle,cmake,postman,git,githubactions)
 
@@ -38,7 +38,7 @@ Hello! I'm Minsecrus, an ordinary technology enthusiast who hopes to continue to
 
   ![My Skills](https://skillicons.dev/icons?i=md,latex,obsidian)
 
-- I only love one Operating System. Say important things three times.
+- I'm a dedicated Windows user. Say important things three times.
 
   ![My Skills](https://skillicons.dev/icons?i=windows,windows,windows,powershell,powershell,powershell)
 
