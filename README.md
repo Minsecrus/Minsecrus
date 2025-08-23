@@ -49,3 +49,4 @@ Hello! I'm Minsecrus, an ordinary technology enthusiast, always learning && grow
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minsecrus&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true)
 ![a](https://github-readme-stats.vercel.app/api?username=Minsecrus&show_icons=true&theme=tokyonight)
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsecrus&show_icons=true&theme=tokyonight)
+[![roadmap.sh](https://roadmap.sh/card/tall/68a1c38cdb704a26333e92d8?variant=light&roadmaps=frontend%2Ccpp%2Cai-agents%2Cgolang)](https://roadmap.sh)
