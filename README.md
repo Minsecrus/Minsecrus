@@ -8,7 +8,7 @@ Hello! I'm Minsecrus, an ordinary technology enthusiast, always learning && grow
 
 - I like to use front-end technologies to build beautiful and efficient web pages。
 
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,remix,angular,svelte,lit,tailwind,vite,npm,pnpm,yarn,bun,wasm)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,remix,angular,svelte,lit,tailwind,vite,npm,pnpm,yarn,bun,wasm,figma)
 
 - I'm focused on backend performance.
 
