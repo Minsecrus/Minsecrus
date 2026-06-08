@@ -1,5 +1,19 @@
 # Minsecrus
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&pause=1000&color=DB0000&center=true&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Minsecrus.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=DB6B00&center=true&repeat=false&width=535&height=28&lines=Frontend+Developer+(React+Stack)+%7C+UI%2FUX+Designer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=CEBE03&center=true&repeat=false&width=635&height=28&lines=C+Language+Tutorial+Writer+(Mdr-C-Tutorial)+%7C+Rust+Language+Explorer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=29E600&center=true&repeat=false&width=635&height=28&lines=Mathematics+%26+Physics+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=00D2C9&center=true&repeat=false&width=635&height=28&lines=Genshin+Impact+%26+Minecraft)](https://git.io/typing-svg)
+
+</div>
+
 In this intricate and complicated world, what I want to do is simple:  
 在纷繁复杂的世界里，我想做的事很简单：  
 ***Practice game theory and fitting, and listen to wishes and cries.***  
