@@ -1,18 +1,18 @@
-# Minsecrus
+<p align="center">
+  <img src="./assets/profile-header.png" alt="Minsecrus profile header" width="100%" />
+</p>
 
-<div align="center">
+## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&pause=1000&color=CEBE03&center=true&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Minsecrus.)](https://git.io/typing-svg)
+- 🎓 Studying at the **University of Science and Technology of China (USTC)**.
+- 💻 Frontend developer focused on the React stack and UI/UX design.
+- ✍️ Writing the **Mdr-C-Tutorial** and exploring the Rust programming language.
+- ⚛️ Passionate about mathematics and physics.
+- 🎮 Genshin Impact and Minecraft player.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=CEBE03&center=true&repeat=false&width=535&height=28&lines=Frontend+Developer+(React+Stack)+%7C+UI%2FUX+Designer)](https://git.io/typing-svg)
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=CEBE03&center=true&repeat=false&width=635&height=28&lines=C+Language+Tutorial+Writer+(Mdr-C-Tutorial)+%7C+Rust+Language+Explorer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=CEBE03&center=true&repeat=false&width=635&height=28&lines=Mathematics+%26+Physics+Enthusiast)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=CEBE03&center=true&repeat=false&width=635&height=28&lines=Genshin+Impact+%26+Minecraft)](https://git.io/typing-svg)
-
-</div>
+## 💭 What I Believe
 
 In this intricate and complicated world, what I want to do is simple:  
 在纷繁复杂的世界里，我想做的事很简单：  
@@ -60,8 +60,7 @@ I am grateful to my parents. The trunk bears all the weight, while the leaves dr
 
 ---
 
-Finally, let me name the dishes on the table:  
-在最后，报个菜名吧：
+## 🧰 Tech Stack & Interests
 
 - I love exploring programming languages.
 
