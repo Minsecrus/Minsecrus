@@ -133,10 +133,4 @@ I am grateful to my parents. The trunk bears all the weight, while the leaves dr
 
   ![My Skills](https://skillicons.dev/icons?i=github,stackoverflow,discord,twitter,instagram&perline=10)
 
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minsecrus&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true)
-
-![Top Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Minsecrus&layout=compact&theme=tokyonight&langs_count=10)
-
 [![roadmap.sh](https://roadmap.sh/card/tall/68a1c38cdb704a26333e92d8?variant=dark)](https://roadmap.sh)
-
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Minsecrus&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
