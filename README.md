@@ -12,6 +12,8 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Minsecrus&label=Profile%20views&color=0e75b6&style=flat) ![QQ](https://img.shields.io/badge/QQ-2972853299-12B7F5?logo=tencentqq&logoColor=white)
+
 ## 💭 What I Believe
 
 In this intricate and complicated world, what I want to do is simple:  
@@ -61,6 +63,8 @@ I am grateful to my parents. The trunk bears all the weight, while the leaves dr
 ---
 
 ## 🧰 Tech Stack & Interests
+
+> 注：Skill Icons 这个仓库（以下图标的来源）已经很多年没更新了。在这模型能力涌现的时代，各种工具随之“涌现”，我也尝试过好多。
 
 - I love exploring programming languages.
 
