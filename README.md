@@ -5,6 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying at the **University of Science and Technology of China (USTC)**.
+- 🧬 Majoring in **Biological Sciences**.
 - 💻 Frontend developer focused on the React stack and UI/UX design.
 - ✍️ Writing the **Mdr-C-Tutorial** and exploring the Rust programming language.
 - ⚛️ Passionate about mathematics and physics.
